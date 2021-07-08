@@ -1,2 +1,0 @@
-# Assignments
-ProgrammingAssignment_25
